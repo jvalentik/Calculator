@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt">Enter 2 numbers</string>
+    <string name="help_text_result">The result</string>
+    <string name="default_result">0.00</string>
+</resources>
